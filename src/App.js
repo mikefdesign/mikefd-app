@@ -1,5 +1,8 @@
 import React from 'react'
 import './App.css'
+import axios from 'axios'
+
+window.axios = axios
 
 function App() {
   return (
