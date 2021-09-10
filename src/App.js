@@ -10,7 +10,7 @@ function App() {
         <h1>Mike Fritzsche Design</h1>
         <h3>Forging ideas into reality</h3>
       </header>
-      <div style={{display: 'none'}}>v0.1.2</div>
+      <div style={{display: 'none'}}>v0.1.3</div>
 
 
       {/*<nav className="navbar navbar-light">*/}
