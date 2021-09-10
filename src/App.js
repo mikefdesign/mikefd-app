@@ -10,6 +10,7 @@ function App() {
         <h1>Mike Fritzsche Design</h1>
         <h3>Forging ideas into reality</h3>
       </header>
+      <div style={{display: 'none'}}>Test new element</div>
 
       {/*<nav className="navbar navbar-light">*/}
       {/*  <ul className="nav navbar-nav">*/}
