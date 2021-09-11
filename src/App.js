@@ -12,7 +12,9 @@ function App() {
       </header>
       <div style={{display: 'none'}}>v0.1.3</div>
 
-
+      {/*
+      @stripe/react-stripe-js @stripe/stripe-js node-sass react-router-dom sass-loader
+      */}
       {/*<nav className="navbar navbar-light">*/}
       {/*  <ul className="nav navbar-nav">*/}
       {/*    <li><Link to="/">Home</Link></li>*/}
